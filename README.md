@@ -21,3 +21,17 @@ Ensure you have the following installed:
 Java Development Kit (JDK) (version 8 or later)
 IDE of your choice (IntelliJ IDEA, Eclipse, or similar).
 Database setup if applicable (MySQL/SQLite).
+
+
+📬 Contact
+Got feedback or suggestions? Feel free to connect!
+
+📧 Email: thisara2000shehankavinda@gmail.com
+🌐 LinkedIn
+🌐 GitHub
+⚡ Fun Fact
+"The best time to complete a task was yesterday. The second best time is now!"
+
+📜 License
+This project is licensed under the MIT License.
+
