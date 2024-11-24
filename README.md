@@ -27,8 +27,12 @@ Database setup if applicable (MySQL/SQLite).
 Got feedback or suggestions? Feel free to connect!
 
 📧 Email: thisara2000shehankavinda@gmail.com
+
 🌐 LinkedIn
+
 🌐 GitHub
+
+
 ⚡ Fun Fact
 "The best time to complete a task was yesterday. The second best time is now!"
 
